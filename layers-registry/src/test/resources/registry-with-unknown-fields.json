@@ -1,0 +1,23 @@
+{
+  "layers": [
+    {
+      "layer_id": 666,
+      "description": "A description",
+      "provenance": "TomTom",
+      "licence": "ODbL",
+      "parents": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "subscriptions": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "unknown_field": "unknown_field"
+    }
+  ]
+}
